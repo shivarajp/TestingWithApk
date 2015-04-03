@@ -1,0 +1,28 @@
+{
+  "title": "Spoon Execution",
+  "started": 1428054626263,
+  "duration": 11,
+  "results": {
+    "430055b2b0b76000": {
+      "installFailed": false,
+      "deviceDetails": {
+        "model": "GT-P5210",
+        "manufacturer": "samsung",
+        "version": "4.4.2",
+        "apiLevel": 19,
+        "language": "en",
+        "region": "GB",
+        "isEmulator": false
+      },
+      "testResults": {},
+      "started": 1428054626266,
+      "duration": 0,
+      "exceptions": [
+        {
+          "className": "Instrumentation run failed due to \u0027java.lang.ClassNotFoundException\u0027",
+          "elements": []
+        }
+      ]
+    }
+  }
+}
